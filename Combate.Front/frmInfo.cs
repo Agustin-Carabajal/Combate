@@ -19,7 +19,7 @@ namespace Combate.Front
         {
             InitializeComponent();
             DGVListado.DataSource = Lista_Armas.Lista;
-
+            
             if(Lista_Armas.Selec(1)==null)
             {
                 Arma Espada = new Arma(1, "Espada", 3, "Un arma muy afilada");

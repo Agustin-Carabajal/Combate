@@ -44,9 +44,6 @@ namespace Combate.Back
         }
         public Arma Selec(int id)
         {
-            
-
-
 
             foreach (DataRow row in Lista.Rows)
             {

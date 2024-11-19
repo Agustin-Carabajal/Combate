@@ -109,5 +109,29 @@
   <ItemGroup>
     <None Include="Resources\bgrBullets.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\img.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imgEnem.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\espada.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hacha.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pistola.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bang.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bgrMenu.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
