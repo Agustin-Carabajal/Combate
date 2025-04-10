@@ -14,7 +14,8 @@ namespace Combate.Front
 {
     public partial class frmMenu : Form
     {
-        
+        //hola//
+
         frmInfo Info = new frmInfo();
 
         frmJugar Jugar = new frmJugar();
